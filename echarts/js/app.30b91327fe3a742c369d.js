@@ -11,12 +11,12 @@ webpackJsonp([1],{
 const data=__WEBPACK_IMPORTED_MODULE_0_mockjs___default.a.mock('mockjs',{
     'echartDate|200':[
        {
-            'url|1':[`/echarts/img/1.jpg`,`/echarts/img/2.jpg`,`/echarts/img/3.jpg`,`/echarts/img/4.jpg`,`/echarts/img/5.jpg`,
-            `/echarts/img/6.jpg`,`/echarts/img/7.jpg`,`/echarts/img/8.jpg`,`/echarts/img/9.jpg`,`/echarts/img/10.jpg`,`/echarts/img/11.jpg`,
-            `/echarts/img/12.jpg`,`/echarts/img/13.jpg`,`/echarts/img/14.jpg`,`/echarts/img/15.jpg`,`/echarts/img/16.jpg`,
-            `/echarts/img/17.jpg`,`/echarts/img/18.jpg`,`/echarts/img/19.jpg`,`/echarts/img/20.jpg`,`/echarts/img/21.jpg`,
-            `/echarts/img/22.jpg`,`/echarts/img/23.jpg`,`/echarts/img/24.jpg`,`/echarts/img/25.jpg`,`/echarts/img/26.jpg`,
-            `/echarts/img/27.jpg`,`/echarts/img/28.jpg`,`/echarts/img/24.jpg`,`/echarts/img/25.jpg`],
+            'url|1':[`/projectPage/echarts/img/1.jpg`,`/projectPage/echarts/img/2.jpg`,`/projectPage/echarts/img/3.jpg`,`/projectPage/echarts/img/4.jpg`,`/projectPage/echarts/img/5.jpg`,
+            `/projectPage/echarts/img/6.jpg`,`/projectPage/echarts/img/7.jpg`,`/projectPage/echarts/img/8.jpg`,`/projectPage/echarts/img/9.jpg`,`/projectPage/echarts/img/10.jpg`,`/projectPage/echarts/img/11.jpg`,
+            `/projectPage/echarts/img/12.jpg`,`/projectPage/echarts/img/13.jpg`,`/projectPage/echarts/img/14.jpg`,`/projectPage/echarts/img/15.jpg`,`/projectPage/echarts/img/16.jpg`,
+            `/projectPage/echarts/img/17.jpg`,`/projectPage/echarts/img/18.jpg`,`/projectPage/echarts/img/19.jpg`,`/projectPage/echarts/img/20.jpg`,`/projectPage/echarts/img/21.jpg`,
+            `/projectPage/echarts/img/22.jpg`,`/projectPage/echarts/img/23.jpg`,`/projectPage/echarts/img/24.jpg`,`/projectPage/echarts/img/25.jpg`,`/projectPage/echarts/img/26.jpg`,
+            `/projectPage/echarts/img/27.jpg`,`/projectPage/echarts/img/28.jpg`,`/projectPage/echarts/img/24.jpg`,`/projectPage/echarts/img/25.jpg`],
             
             'title|+1':['落落','慕容',"晓月","愉悦","沫沫","小雪",'梅梅',"晓东","知画","晓晓","依依",'欧华',
             '潇潇','夏至',"妖妖","瑶瑶","莫雨","关关",'花落',"夕阳","叶叶","荷叶","茜茜",'璐瑶','夕阳月',
@@ -3653,4 +3653,4 @@ module.exports = Component.exports
 /***/ })
 
 },[225]);
-//# sourceMappingURL=app.bb9bb6392e7df6173250.js.map
+//# sourceMappingURL=app.30b91327fe3a742c369d.js.map
