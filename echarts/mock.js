@@ -3,12 +3,12 @@ import Mock from 'mockjs'
 const data=Mock.mock('mockjs',{
     'echartDate|200':[
        {
-            'url|1':[`/static/img/1.jpg`,`/static/img/2.jpg`,`/static/img/3.jpg`,`/static/img/4.jpg`,`/static/img/5.jpg`,
-            `/static/img/6.jpg`,`/static/img/7.jpg`,`/static/img/8.jpg`,`/static/img/9.jpg`,`/static/img/10.jpg`,`/static/img/11.jpg`,
-            `/static/img/12.jpg`,`/static/img/13.jpg`,`/static/img/14.jpg`,`/static/img/15.jpg`,`/static/img/16.jpg`,
-            `/static/img/17.jpg`,`/static/img/18.jpg`,`/static/img/19.jpg`,`/static/img/20.jpg`,`/static/img/21.jpg`,
-            `/static/img/22.jpg`,`/static/img/23.jpg`,`/static/img/24.jpg`,`/static/img/25.jpg`,`/static/img/26.jpg`,
-            `/static/img/27.jpg`,`/static/img/28.jpg`,`/static/img/24.jpg`,`/static/img/25.jpg`],
+            'url|1':[`/echarts/img/1.jpg`,`/echarts/img/2.jpg`,`/echarts/img/3.jpg`,`/echarts/img/4.jpg`,`/echarts/img/5.jpg`,
+            `/echarts/img/6.jpg`,`/echarts/img/7.jpg`,`/echarts/img/8.jpg`,`/echarts/img/9.jpg`,`/echarts/img/10.jpg`,`/echarts/img/11.jpg`,
+            `/echarts/img/12.jpg`,`/echarts/img/13.jpg`,`/echarts/img/14.jpg`,`/echarts/img/15.jpg`,`/echarts/img/16.jpg`,
+            `/echarts/img/17.jpg`,`/echarts/img/18.jpg`,`/echarts/img/19.jpg`,`/echarts/img/20.jpg`,`/echarts/img/21.jpg`,
+            `/echarts/img/22.jpg`,`/echarts/img/23.jpg`,`/echarts/img/24.jpg`,`/echarts/img/25.jpg`,`/echarts/img/26.jpg`,
+            `/echarts/img/27.jpg`,`/echarts/img/28.jpg`,`/echarts/img/24.jpg`,`/echarts/img/25.jpg`],
             
             'title|+1':['落落','慕容',"晓月","愉悦","沫沫","小雪",'梅梅',"晓东","知画","晓晓","依依",'欧华',
             '潇潇','夏至',"妖妖","瑶瑶","莫雨","关关",'花落',"夕阳","叶叶","荷叶","茜茜",'璐瑶','夕阳月',
